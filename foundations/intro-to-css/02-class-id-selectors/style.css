@@ -1,1 +1,40 @@
 /* Add CSS Styling */
+/* 
+p {
+    background-color: RGB(255,192,203);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: 36px;
+}
+
+#number-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.class-numbers {
+    font-size: 24px;
+}
+
+div p {
+    font-weight: bold;
+    background-color: rgb(135, 206, 135)
+} */
+
+.odd-numbers {
+        background-color: RGB(255,192,203);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#number-2 {
+        color: blue;
+    font-size: 36px;
+}
+
+.odd-numbers.number-3 {
+    font-size: 24px;
+}
+
+#number-4 {
+    font-size: 24px;
+    background-color: lightgreen;
+}
